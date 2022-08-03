@@ -1,5 +1,4 @@
 # PGPML-Projects
-*Machine learning projects done as part of an online PGPML course offered by Great Learning, an ed-tech company.*
 
 This repository contains machine learning projects that I have implemented as part of an online **Post Graduate Program in Machine Learning (PGPML)** course offered by [Great Learning](https://www.greatlearning.in/pg-program-machine-learning-course) during November 2019 to June 2020.
 
